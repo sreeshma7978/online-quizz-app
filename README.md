@@ -260,10 +260,6 @@ To keep the archive size small, the following are excluded and must be regenerat
 ```
 /vendor              → composer install
 /node_modules        → npm install
-/storage/logs
-/storage/framework/cache
-/storage/framework/sessions
-/storage/framework/views
 ```
 
 ---
